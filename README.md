@@ -8,4 +8,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/reinasuzu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg' alt='tiktok' height='40'>](https://vt.tiktok.com/ZSJDPAD2B/)  
 
-[![Reina's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogorei)](https://github.com/ogorei/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogorei)](https://github.com/ogorei/github-readme-stats)
