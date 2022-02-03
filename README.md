@@ -8,6 +8,4 @@ https://ogorei.github.io/thisme/
 ##Skills
 Skills: VUE JS / REACT / JS / HTML / CSS
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg' alt='tiktok' height='40'>](https://vt.tiktok.com/ZSJDPAD2B/)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogorei&layout=compact)](https://github.com/ogorei/github-readme-stats)
