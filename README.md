@@ -5,9 +5,6 @@ I'm Reina and I do content on Design and Development. I'm a JS lover and enjoy c
 ### GET IN TOUCH
 https://www.chatwork.com/#!rid254311679
 
-## My Portfolio
-https://ogorei.github.io/thisme/
-
 ##Skills
 Skills: VUE JS / REACT / JS / HTML / CSS
 
