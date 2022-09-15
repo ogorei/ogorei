@@ -1,7 +1,6 @@
 ### HELLO! 👋,
 I'm Reina and I do content on Design and Development. I'm a React lover, including it for WEB and Mobile Apps.
 
-PORTFOLIO: 
 BLOG: https://globalme.home.blog/
 
 ### Skills
