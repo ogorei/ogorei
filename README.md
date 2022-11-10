@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Reina</h1>
-<h3 align="left">A passionate frontend developer from Japan</h3>
+<h3 align="left">A passionate frontend developer</h3>
 
 - 📝 I regularly write articles on [https://zenn.dev/ogorei](https://zenn.dev/ogorei)
 - ⚡ Fun fact **I'm a TikToker**
