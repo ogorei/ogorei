@@ -1,8 +1,6 @@
 <h1 align="left">Welcome! </h1>
 <h3 align="left">A passionate frontend developer</h3>
 
-MY WEBSITE: https://portfolio-eight-olive-72.vercel.app/
-
 - 📝 I regularly write articles on [https://zenn.dev/ogorei](https://zenn.dev/ogorei)
 - ⚡ Fun fact **I'm a TikToker**
 
