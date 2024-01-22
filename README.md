@@ -5,6 +5,7 @@
 </p>
 
 - 📝 I regularly write articles on [https://zenn.dev/ogorei](https://zenn.dev/ogorei)
+- 📝 I keep learning on Open University [https://www.open.edu/openlearn/profiles/zt183350/achievements?p=0&b=dateissued&o=desc)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
