@@ -1,7 +1,7 @@
 <h1 align="left">Hello 👋, I'm Reina!</h1>
 <h3 align="left">I'm a passionate frontend developer</h3>
 <p>
- Currently working at UPBOND.Co, a in-the-house software development company, Reina is focused on making technology digestible to all. Being someone who stays updated with the latest tech trends, she's always armed to spread the knowledge. You will find her making TikToks related to Web3 and Web developement when not found gazing the stars. 
+ Reina is focused on making technology digestible to all. Being someone who stays updated with the latest tech trends, she's always armed to spread the knowledge. You will find her making TikToks related to Web3 and Web developement when not found gazing the stars. 
 </p>
 
 - 📝 I regularly write articles on [https://zenn.dev/ogorei](https://zenn.dev/ogorei)
