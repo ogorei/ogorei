@@ -3,9 +3,8 @@
 <p>
  Reina is focused on making technology digestible to all. Being someone who stays updated with the latest tech trends, she's always armed to spread the knowledge. You will find her making TikToks related to Web3 and Web developement when not found gazing the stars. 
 </p>
-- 📝 Check my [Portfolio] (https://reinacodes.web.app/)
-- 📝 Who am I? Check my MBTI [16Personalities](https://www.16personalities.com/profiles/6de5363539216)
-- 📝 Continues learning on [Open University](https://www.open.edu/openlearn/profiles/zt183350/achievements?p=0&b=dateissued&o=desc)
+- 📝 Check my Portfolio (https://reinacodes.web.app/)
+- 📝 Who am I? Check my MBTI (https://www.16personalities.com/profiles/6de5363539216)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
