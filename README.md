@@ -1,11 +1,12 @@
 <h1 align="left">Hello 👋, I'm Reina!</h1>
-<h3 align="left">I'm a passionate frontend developer</h3>
-<p>
- Reina is focused on making technology digestible to all. Being someone who stays updated with the latest tech trends, she's always armed to spread the knowledge. You will find her making TikToks related to Web3 and Web developement when not found gazing the stars. 
-</p>
+<h3 align="left">Software Developer & Product Manager</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
+  Reina is a passionate software developer with 5 years of hands-on coding experience and 3 years leading as a Product Manager. 
+  She brings a unique hybrid skill set that blends technical execution with strategic product thinking—aligning user needs, business goals, and team collaboration.
+  <br><br>
+  Whether building user-centric web apps or managing roadmaps and cross-functional teams, Reina is focused on making technology accessible to all. 
+  Outside of work, she creates TikToks about Web3, product design, and development workflows—or you’ll find her gazing at the stars ✨.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
