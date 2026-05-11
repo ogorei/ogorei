@@ -1,11 +1,11 @@
 <h1 align="left">Hello 👋, I'm Reina!</h1>
-<h3 align="left">Software Developer & Product Manager</h3>
+<h3 align="left">Software Engineer & Product Manager</h3>
 
 <p>
-  Reina is a passionate software developer with 5 years of hands-on coding experience and 3 years leading as a Product Manager. 
+  Reina is a passionate software developer with 7 years of hands-on coding experience and 2 years leading as a Product Manager. 
   She brings a unique hybrid skill set that blends technical execution with strategic product thinking—aligning user needs, business goals, and team collaboration.
   <br><br>
   Whether building user-centric web apps or managing roadmaps and cross-functional teams, Reina is focused on making technology accessible to all. 
-  Outside of work, she creates TikToks about Web3, product design, and development workflows—or you’ll find her gazing at the stars ✨.
+  Outside of work, she creates TikToks about technology and lifestyle or you’ll find her gazing at the stars ✨.
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogorei&show_icons=true&locale=en&layout=compact" alt="ogorei" /></p>
