@@ -1,10 +1,30 @@
-<h1 align="left">Hello 👋, I'm Reina!</h1>
-<h3 align="left">Software Engineer & Product Manager</h3>
+# Hi, I'm Reina 👋
 
-<p>
-  Reina is a passionate software developer with 10 years of hands-on coding experience and 2 years leading as a Product Manager. 
-  She brings a unique hybrid skill set that blends technical execution with strategic product thinking—aligning user needs, business goals, and team collaboration.
-  <br><br>
-  Whether building user-centric web apps or managing roadmaps and cross-functional teams, Reina is focused on making technology accessible to all. 
-  Outside of work, she creates TikToks about technology and lifestyle or you’ll find her gazing at the stars ✨.
-</p>
+### Senior Frontend Engineer · 10+ Years in Software Development
+
+I’m a **frontend engineer with 10+ years of hands-on development experience**, specializing in **Vue, React, TypeScript, and Next.js**.
+
+I also have experience in **product management, technical leadership, and mentoring engineers** — helping turn ideas and requirements into practical, maintainable products.
+
+### 🛠 Tech
+
+**React · TypeScript · Next.js · Node.js · PostgreSQL · Prisma · Docker · AWS**
+
+### 💡 I Care About
+
+* Simple, maintainable solutions
+* Great user experience
+* Clear communication
+* Helping teams build better products
+
+### ✍️ Writing
+
+I write about **web development and lessons from real-world projects**, mainly in Japanese.
+
+👉 [Read my articles on Zenn](https://zenn.dev/reina_codes)
+
+### 🌱 Currently
+
+Building web products, mentoring engineers, and exploring **AI-assisted software development**.
+
+Thanks for stopping by! ✨
